@@ -1,2 +1,8 @@
-# HUST-NetEaseClub-Android-homework
-Some Test for green hands in HUSTNetEaseClub Android group
+# 华中科技大学网易俱乐部Android组作业
+
+###  本项目用于发布学习任务及检查作业，请参与的同学们按规定完成相关作业。
+**提交流程如下：**
+大家先fork本项目，在自己的仓库对本项目相应作业创建新branch，
+在自己的branch里写相关作业代码，写完后将这个branch合并到master，向我提出pull ruquest，我会给出修改意见，修改后我会将你们的作业合并到主项目。
+
+如有疑问可在群内咨询我本人！
