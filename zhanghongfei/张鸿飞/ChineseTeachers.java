@@ -1,8 +1,9 @@
-package com.github.homework;
+package com.zhanghongfei.homework;
 
-public class ChineseTeachers extends Person implements AllTeachers{
+public class ChineseTeachers extends Personimplements AllTeachers{
 	public void printClassName() {
-		System.out.println("ChineseTeachers");
+		a=this.getClass().getClassName();
+		System.out.println(a);
 	}
 	public void function() {
 		System.out.println("语文老师教语文。");
