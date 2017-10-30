@@ -2,9 +2,9 @@ package com.github.homework;
 
 public class MathTeachers extends Person implements AllTeachers{
 	public void printClassName() {
-		System.out.println("ChineseTeachers");
+		System.out.println("MathTeachers");
 	}
 	public void function() {
-		System.out.println("ÓïÎÄÀÏÊ¦½ÌÓïÎÄ");
+		System.out.println("æ•°å­¦è€å¸ˆæ•™æ•°å­¦ã€‚");
 	}
 }
