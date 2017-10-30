@@ -1,8 +1,9 @@
-package com.github.homework;
+package com.zhanghongfei.homework;
 
 public class Principal extends Person {
 	public void printClassName() {
-		System.out.println("Principal");
+		a=this.getClass().getClassName();
+		System.out.println(a);
 	}
 	public void function() {
 		System.out.println("校长管理整个学校");
