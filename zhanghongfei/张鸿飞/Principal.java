@@ -5,6 +5,6 @@ public class Principal extends Person {
 		System.out.println("Principal");
 	}
 	public void function() {
-		System.out.println("校长管理整个学校");
+		System.out.println("鏍￠暱绠＄悊鏁翠釜瀛︽牎");
 	}
 }
