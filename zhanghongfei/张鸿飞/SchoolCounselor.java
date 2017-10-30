@@ -5,6 +5,6 @@ public class SchoolCounselor extends Person {
 		System.out.println("SchoolCounselor");
 	}
 	public void function() {
-		System.out.println("¸¨µ¼Ô±¹ÜÀíÑ§Éú¡£");
+		System.out.println("è¾…å¯¼å‘˜ç®¡ç†å­¦ç”Ÿã€‚");
 	}
 }
