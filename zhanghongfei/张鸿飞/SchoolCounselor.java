@@ -1,8 +1,9 @@
-package com.github.homework;
+package com.zhanghongfei.homework;
 
 public class SchoolCounselor extends Person {
 	public void printClassName() {
-		System.out.println("SchoolCounselor");
+		a=this.getClass().getClassName();
+		System.out.println(a);
 	}
 	public void function() {
 		System.out.println("辅导员管理学生。");
