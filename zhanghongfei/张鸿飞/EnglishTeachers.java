@@ -5,6 +5,6 @@ public class EnglishTeachers extends Person implements AllTeachers{
 		System.out.println("EnglishTeachers");
 	}
 	public void function() {
-		System.out.println("Ó¢ÓïÀÏÊ¦½ÌÓ¢Óï");
+		System.out.println("è‹±è¯­è€å¸ˆæ•™è‹±è¯­");
 	}
 }
