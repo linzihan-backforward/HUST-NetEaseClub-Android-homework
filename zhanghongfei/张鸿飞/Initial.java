@@ -1,4 +1,4 @@
-package com.github.homework;
+package com.zhanghongfei.homework;
 
 public class Initial {
 
