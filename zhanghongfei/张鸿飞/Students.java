@@ -5,6 +5,6 @@ public class Students extends Person {
 		System.out.println("Students");
 	}
 	public void function() {
-		System.out.println("学生好好学习");
+		System.out.println("瀛︾敓濂藉ソ瀛︿範);
 	}
 }
