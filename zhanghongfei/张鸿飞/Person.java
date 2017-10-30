@@ -5,9 +5,9 @@ public class Person {
 	public int age;
 	public String sexuality;
 	public void printClassName() {
-		System.out.println("打印类名");
+		System.out.println("鎵撳嵃绫诲悕");
 	}
 	public void function (){
-		System.out.println("功能");
+		System.out.println("鍔熻兘");
 	}
 }
