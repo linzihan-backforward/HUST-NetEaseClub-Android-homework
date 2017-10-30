@@ -5,6 +5,6 @@ public class OtherTeachers {
 		System.out.println("OtherTeachers");
 	}
 	public void function() {
-		System.out.println("ÆäËûÀÏÊ¦½Ì±ğµÄ¿ÆÄ¿");
+		System.out.println("å…¶ä»–è€å¸ˆæ•™åˆ«çš„ç§‘ç›®ã€‚");
 	}
 }
