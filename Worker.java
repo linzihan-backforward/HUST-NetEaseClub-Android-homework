@@ -1,4 +1,4 @@
-package com.highschool;
+package com.hujunjie.highschool;
 
 public class Worker extends WorkPartment implements IGetSalary {
 

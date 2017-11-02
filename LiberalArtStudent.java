@@ -1,4 +1,4 @@
-package com.highschool;
+package com.hujunjie.highschool;
 
 public class LiberalArtStudent extends Student implements IStudy {
 

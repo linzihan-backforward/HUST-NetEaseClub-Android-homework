@@ -1,4 +1,4 @@
-package com.highschool;
+package com.hujunjie.highschool;
 
 public class Master extends Manager implements IGetSalary{
 	
@@ -15,5 +15,6 @@ public class Master extends Manager implements IGetSalary{
 		System.out.println("校长 ：管理学校发展方向");
 
 	}
+	
 
 }
