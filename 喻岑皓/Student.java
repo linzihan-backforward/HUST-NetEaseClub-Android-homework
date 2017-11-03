@@ -1,10 +1,12 @@
-package com.school1;
+package com.yucenhao.homework;
 
-public class Student extends Teacher implements IName {
+public class Student extends Person implements IStudy {
+
 	@Override
-	public void name() {
+	public void study() {
 		// TODO Auto-generated method stub
-		System.out.println("Student");
+		System.out.println("学生在学校学习");
+
 	}
 
 }

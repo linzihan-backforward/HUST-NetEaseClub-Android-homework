@@ -1,10 +1,12 @@
 package com.yucenhao.homework;
 
-public class Headmaster extends Person implements IManage {
-	
+public class StudentCounselor extends Person implements IManage {
+
 	@Override
 	public void manage() {
 		// TODO Auto-generated method stub
-		System.out.println("校长管理学校");
+		System.out.println("辅导员管理学生");
+
 	}
+
 }
