@@ -25,8 +25,8 @@ public class Test {
 		obj2.teach();
 		
 		obj3.printName();
-		
 		obj3.teach();
+		
 		obj4.printName();
 		obj4.teach();
 		
