@@ -8,13 +8,13 @@ public class ListWay {
 	public void listFunction() {
 		// TODO Auto-generated method stub
 		ArrayList<Student>stu=new ArrayList<Student>(); 
-        for(int i=20070301,j=1;i<=20070330;i++,j++) 
+        for(int a=20070301,b=1;a<=20070330;a++,b++) 
         { 
-            stu.add(new Student(i,(int) (40*Math.random()+60), "Ñ§Éú"+j)); 
+            stu.add(new Student(a,(int) (40*Math.random()+60), "å­¦ç”Ÿ"+b)); 
         }
         Collections.sort(stu,new GradeSort());
         for(Student stu1:stu)
-        System.out.println("Ñ§ºÅ£º"+stu1.studentID+" ÐÕÃû£º"+stu1.name+"³É¼¨£º"+stu1.grade);
+        System.out.println("å­¦å·ï¼š"+stu1.studentID+" å§“åï¼š"+stu1.name+"æˆç»©ï¼š"+stu1.grade);
 	System.out.println("  ");
 	}
 
