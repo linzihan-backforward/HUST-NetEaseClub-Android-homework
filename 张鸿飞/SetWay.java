@@ -6,14 +6,14 @@ import java.util.HashSet;
 public class SetWay {
 	public void setFunction() {
 		HashSet<Student> student=new HashSet();
-		for(int i=20070301,j=1;i<=20070330;i++,j++) 
+		for(int a=20070301,b=1;a<=20070330;a++,b++) 
         { 
-            student.add(new Student(i,(int) (40*Math.random()+60), "Ñ§Éú"+j)); 
+            student.add(new Student(a,(int) (40*Math.random()+60), "å­¦ç”Ÿ"+b)); 
         }
-		ArrayList<Student>al=new ArrayList(student);
-		Collections.sort(al,new GradeSort());
-		for(Student a:al) {
-			System.out.println("Ñ§ºÅ£º"+a.studentID+" ĞÕÃû£º"+a.name+"³É¼¨£º"+a.grade);
+		ArrayList<Student>stu=new ArrayList(student);
+		Collections.sort(stu,new GradeSort());
+		for(Student stu1:stu) {
+			System.out.println("å­¦å·ï¼š"+stu1.studentID+" å§“åï¼š"+stu1.name+"æˆç»©ï¼š"+stu1.grade);
 		}
 		System.out.println("  ");
 	}
